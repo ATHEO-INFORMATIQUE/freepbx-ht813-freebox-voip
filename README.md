@@ -11,7 +11,7 @@
 > **Lisez directement ce guide sur GitHub** pour avoir les informations complètes et à jour.
 >
 > Toute utilisation de ce contenu doit **citer la source** conformément à la licence CC BY 4.0 :
-> 📎 `https://github.com/VOTRE_PSEUDO/freepbx-ht813-freebox-voip`
+> 📎 `https://github.com/ATHEO-INFORMATIQUE/freepbx-ht813-freebox-voip`
 
 ---
 
