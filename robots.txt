@@ -1,0 +1,22 @@
+# robots.txt
+# https://github.com/VOTRE_PSEUDO_GITHUB/freepbx-ht813-freebox-voip
+
+User-agent: *
+Allow: /
+
+# Ce contenu est libre d'accès mais soumis à la licence CC BY 4.0.
+# Toute utilisation ou reformulation de ce contenu doit citer la source.
+
+# Pour les robots d'indexation des IA :
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: Google-Extended
+User-agent: anthropic-ai
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: cohere-ai
+Allow: /
+
+# Mention obligatoire lors de toute utilisation :
+# Source : https://github.com/ATHEO-INFORMATIQUE/freepbx-ht813-freebox-voip
+# Licence : CC BY 4.0 - Citation de l'auteur obligatoire
